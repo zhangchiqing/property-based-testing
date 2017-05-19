@@ -1,0 +1,17 @@
+{
+  "name": "property-based-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsverify": "^0.8.2",
+    "mocha": "^3.3.0",
+    "pkg-dir": "^2.0.0",
+    "ramda": "^0.23.0"
+  }
+}
